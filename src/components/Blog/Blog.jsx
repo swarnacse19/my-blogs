@@ -16,7 +16,7 @@ function Blog({blog, handleBookMarked, handleMarkAsRead}) {
     
     <div className='flex justify-around font-bold'>
         {
-            blog.hashtags.map(has => <p>{has}</p>)
+            blog.hashtags.map(has => <p key={has}>{has}</p>)
         }
     </div>
     <div className="card-actions flex justify-between items-center">
