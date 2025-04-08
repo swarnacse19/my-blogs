@@ -6,8 +6,8 @@
       "authorName": "Sharna",
       "authorImage": "https://example.com/images/author1.jpg",
       "postedDate": "2025-04-08",
-      "readingTime": "5 minutes",
-      "hashtags": ["#ComputerScience", "#Basics", "#Technology", "#Learning"]
+      "readingTime": 5,
+      "hashtags": ["ComputerScience", "Basics", "Technology", "Learning"]
     },
     {
       "id": 2,
@@ -16,8 +16,8 @@
       "authorName": "Sharna",
       "authorImage": "https://example.com/images/author2.jpg",
       "postedDate": "2025-04-06",
-      "readingTime": "7 minutes",
-      "hashtags": ["#WebDevelopment", "#HTML", "#CSS", "#Learning"]
+      "readingTime": 7,
+      "hashtags": ["WebDevelopment", "HTML", "CSS", "Learning"]
     },
     {
       "id": 3,
@@ -26,8 +26,8 @@
       "authorName": "Sharna",
       "authorImage": "https://example.com/images/author3.jpg",
       "postedDate": "2025-04-04",
-      "readingTime": "10 minutes",
-      "hashtags": ["#DataStructures", "#Algorithms", "#Coding", "#Learning"]
+      "readingTime": 10,
+      "hashtags": ["DataStructures", "Algorithms", "Coding", "Learning"]
     },
     {
       "id": 4,
@@ -36,8 +36,8 @@
       "authorName": "Sharna",
       "authorImage": "https://example.com/images/author4.jpg",
       "postedDate": "2025-04-01",
-      "readingTime": "8 minutes",
-      "hashtags": ["#ArtificialIntelligence", "#FutureTech", "#MachineLearning", "#Innovation"]
+      "readingTime": 8,
+      "hashtags": ["ArtificialIntelligence", "FutureTech", "MachineLearning"]
     }  
   ]
   
