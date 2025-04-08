@@ -2,7 +2,7 @@
     {
       "id": 1,
       "title": "Understanding the Basics of Computer Science",
-      "coverPhoto": "https://example.com/images/cover1.jpg",
+      "coverPhoto": "https://i.ibb.co.com/fdzv6KbS/download4.jpg",
       "authorName": "Sharna",
       "authorImage": "https://example.com/images/author1.jpg",
       "postedDate": "2025-04-08",
@@ -12,7 +12,7 @@
     {
       "id": 2,
       "title": "Introduction to Web Development",
-      "coverPhoto": "https://example.com/images/cover2.jpg",
+      "coverPhoto": "https://i.ibb.co.com/mKMDN4k/download3.jpg",
       "authorName": "Sharna",
       "authorImage": "https://example.com/images/author2.jpg",
       "postedDate": "2025-04-06",
@@ -22,7 +22,7 @@
     {
       "id": 3,
       "title": "Data Structures and Algorithms Explained",
-      "coverPhoto": "https://example.com/images/cover3.jpg",
+      "coverPhoto": "https://i.ibb.co.com/jPDq1HSW/download2.jpg",
       "authorName": "Sharna",
       "authorImage": "https://example.com/images/author3.jpg",
       "postedDate": "2025-04-04",
@@ -32,22 +32,12 @@
     {
       "id": 4,
       "title": "The Future of Artificial Intelligence",
-      "coverPhoto": "https://example.com/images/cover4.jpg",
+      "coverPhoto": "https://i.ibb.co.com/CKxvGfBC/download1.jpg",
       "authorName": "Sharna",
       "authorImage": "https://example.com/images/author4.jpg",
       "postedDate": "2025-04-01",
       "readingTime": "8 minutes",
       "hashtags": ["#ArtificialIntelligence", "#FutureTech", "#MachineLearning", "#Innovation"]
-    },
-    {
-      "id": 5,
-      "title": "A Beginner's Guide to JavaScript",
-      "coverPhoto": "https://example.com/images/cover5.jpg",
-      "authorName": "Sharna",
-      "authorImage": "https://example.com/images/author5.jpg",
-      "postedDate": "2025-03-30",
-      "readingTime": "6 minutes",
-      "hashtags": ["#JavaScript", "#Programming", "#Coding", "#Tutorial"]
-    }
+    }  
   ]
   
